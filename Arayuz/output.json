@@ -1,0 +1,50 @@
+[
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Resimde bir mağaza içindeki bir stant görünüyor. Stantta çeşitli ürünler bulunuyor:\n\n1. Bir beyaz plastik kutu, üzerinde \"American Made\" yazısı bulunuyor.\n2. Bir beyaz plastik çubuklu kumbara.\n3. Bir beyaz plastik çubuklu kumbara altıda.\n4. Bir beyaz plastik çubuklu kumbara üstüne bir kırmızı kapaklı plastik kutu.\n5. Bir beyaz kutu, üzerinde \"Solar Flame LED Saplam\" yazısı bulunuyor",
+        "rejected": "Resimde bir mağaza içindeki bir stant görünüyor. Stantta çeşitli ürünler bulunuyor:\n\n1. Bir beyaz plastik kutu, üzerinde \"American Made\" yazısı bulunuyor.\n2. Bir beyaz plastik kupa, üstü açık ve altı kapalı.\n3. Bir beyaz plastik kutu, üstü açık ve altı kapalı.\n4. Bir beyaz plastik kutu, üstü açık ve altı kapalı.\n5. Bir beyaz plastik kutu, üstü açık ve altı kapalı.\n\nStantın",
+        "image": "20240408_183035.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Resimde bir kedi görülüyor. Kedi, yeşil yapraklı bir ağaçın yanına kalmış ve yere doğru bükülmüş durumda. Kedinin cinsi ve göğsü gri tonlarda, vücutunda çeşitli renklerin karışımıyla örülmüş. Kedi, yere doğru bükülmüş ve gözlerini kapattığı için tam olarak yüzüne bakamıyor. Kedinin kuyruğu yukarı doğru doğru uzanmış ve ağaç yaprağına dokunmuş gibi görünüyor",
+        "rejected": "Resimde bir kedi görülüyor. Kedi, yeşil yapraklı bir ağaçın yanına kalkmış durumda ve ellerini kullanarak ağaç yaprağını kontrol ediyor gibi görünüyor. Kedinin cinsi ve renkleri gri ve beyaz tonları içeriyor. Ağaç yaprağı üzerindeki kediye bakışta, kedinin bu yaprakları kontrol etmek için ellerini kullanması ve bu yaprakların ağaçtan düşmesiyle ilgili bir endişe duyması gibi bir durum var.",
+        "image": "20240405_154235.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Bu fotoğraf, bir kedinin bahçede oturduğu bir potta yer alıyor. Kedi, potun üst kısmında oturup gözlerini açıkça dışarıya bakıyor. Bahçede yeşil yapraklı bitkiler ve küçük çiçeklerle dolu, hafif bir atmosfer yaratıyor. Arka planda, bir tarihi yapıya ait ahşap ve taş duvarlar görülebiliyor. Bu yapı, tarihi bir mekanın içinde olduğunu gösteriyor. Potun正文部分は、猫が花壇",
+        "rejected": "Bu fotoğraf, bir kedinin bahçede oturduğu bir potta yer alıyor. Kedi, potun üst kısmında oturup gözlerini açarak çevresini izliyor. Bahçede yeşil yapraklı bitkiler ve küçük çiçeklerle dolu, hafif bir atmosfer yaratıyor. Arka planda, bir tarihi yapıya ait ahşap ve taş duvarlar görülebiliyor. Bu yapı, tarihi ve kültürel değeri taşıyan bir yer gibi görünüyor. Kedinin poz",
+        "image": "20240302_110919.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Bu fotoğraf, bir plaj manzarasını gösteriyor. Plajın kenarında kireç taşılar ve küçük taşlar yer alıyor. Su, kireç taşıları üzerinde dolaşıyor ve suyun parlaklığı plajın yüzeyine yansıyor. Plajın arka planında deniz gölgesiyle kaplıyor ve gün batımı veya gün doğumu gibi bir hava durumu gözlemleniyor. Hava, açık gökyüzünde bulutlarla kaplı. Bu, bir plajın genel görünümünü ve atmosferik h",
+        "rejected": "Bu fotoğraf, bir plaj manzarasını gösteriyor. Plajın kenarında kireç taşılar ve küçük taşlar yer alıyor. Su, kireç taşıları üzerinde dolaşıyor ve plajın kenarında küçük bir gölük oluşturuyor. Su, gün batımı veya gün doğumu için parlak bir ışık yaratıyor. Plajın arka planında deniz ve gökyüzü görünen. Gökyüzünde bulutlar var ve gökyüzünün üstüne bir ışık parlayan güneş gözlüyor. Bu, plaj",
+        "image": "20220913_174347.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Bu fotoğraf, bir müzede sergilenen eserlerden biri olan bir askeri giysisini gösteriyor. Giyside, döllenmiş kumaşlarla örtülü ve çeşitli detaylarla süslenmiş. Giyinin üstüne bir kemer yer alıyor ve bu kemerde yazılar ve desenler bulunuyor. Giyinin altındaki kumaş, yeşil renkte ve farklı desenler içeriyor gibi görünüyor.\n\nGiysisinin arkasında, bir kemerli askeri başörtüsü yer alıyor. Bu başört",
+        "rejected": "Bu fotoğraf, bir müzede sergilenen eserlerden biri olan bir kılıç ve bir başörtüyi gösteriyor. Kılıç, zımbalı bir şekilde tasarlanmış ve dörtlü bir şekilde yapılmış. Başörtüsü ise metal kabuklarla örtülüdür ve üzerinde yazılar ve desenler bulunmaktadır. Bu tür eserler, tarihi ve kültürel değerleri yansıtan eserlerdir.",
+        "image": "20231022_155816.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Bu fotoğraf, bir açık hava ortamında çekildi. Gökyüzünde az bulutlar ve güneş ışığı görülüyor. Orta-üstteki gökyüzü açık mavi, altta ise daha koyu mavi tonlara bürünüyor. \n\nOrmanlık alanın önündeki çimenler yeşil ve parlak. Çimenler arasında küçük ağaçlar ve çalılar görülebiliyor. Altta ise daha geniş çim alanları ve küçük çimenler看见.\n\nArka planda dağların zirveleri ve daha",
+        "rejected": "Bu fotoğraf, bir açık hava ortamında çekildi. Gökyüzünde az bulutlar ve güneş ışığı görülüyor. Orta-üstteki gökyüzü açık mavi, altta ise daha koyu mavi tonlara geçiyor. Altta, yeşil yapraklı ağaçlar ve küçük çalılar arasında geniş bir yeşil alan görünen bir tarım alanının görünümü. Alanın arka planda dağlar veya yüksek tepelerin görünüşüne sahip. Bu tarım alanının çevresinde, daha büyük a",
+        "image": "20230618_181132.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Resimde bir kedi ve bir insanın eli görülmektedir. Kedi, bir kitap üzerinde oturmuş ve gözlerini kaplamış durumda. İnsanın eli, kedinin omzuna dokunuyor gibi görünmektedir. Kitap üzerinde çizimler ve notlar bulunmaktadır. Resim, kedinin kitap üzerinde oturup gözlerini kaplayarak insanın eline dokunmasını gösteriyor gibi bir anlatım sunuyor.",
+        "rejected": "Resimde bir kedi ve bir insanın eli görülmektedir. Kedi, bir kitap üzerinde oturmuş ve gözlerini kaplamış durumda. İnsanın eli, kedinin omzuna dokunuyor gibi görünmektedir. Kitap üzerinde çizimler ve notlar bulunuyor. Resim, kedinin kitapla ilgili bir aktiviteye katıldığı veya kitapta bir çizim yapmak istemiş olabileceğini gösteriyor.",
+        "image": "20230419_223420.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Resimdeki kedi, sarı rengi ve çizgili bir vücut yapısıyla görülmektedir. Kedinin gözleri sarı-mavi tonlarında ve kafasının üstüne doğru uzanmış durumda. Kedi, bir duvara oturmuş gibi görünüyor ve kollarını ve ayaklarını açarak rahat bir poz tutuyor. Kedinin cinsiyetinin belirsiz olduğu için kesin bir açıklama yapamıyorum.",
+        "rejected": "Resimdeki kedi, sarı rengiyle ve uzun tüyleri olan bir tabby tipleridir. Kedi, dışarıda duruyor ve gözlerini açıkça gösteriyor. Kedinin yuvasına doğru bakıyor gibi görünüyor. Kedinin yuvasının içinde bir kapı var ve kedinin yuvasına doğru yürüyor gibi duruyor. Kedi, yuvasının içinde oturmuş gibi görünüyor.",
+        "image": "20230226_145633.jpg"
+    }
+]
