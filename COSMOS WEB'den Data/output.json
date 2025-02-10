@@ -1,0 +1,602 @@
+[
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir maskeli bir karakter ve bir gökdeli desenli bir yıldız görünüyor. Maskeli karakterin yanındaki gökdeli desen, bir yıldız veya bir gökdeli yapay zeka modeli gibi bir şeyi temsil edebilir. Maskeli karakterin yanındaki yazılar, bir kod veya bir metin olabilir. Bu resim, bilgisayar bilimleri, yapay zeka veya bir bilim kurgusu gibi bir konuda bir görsel metin veya kodun nasıl",
+        "image": "37c58fb19b764387aa55ecb618dcb10f.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir erkek yerliyor. Onun üzerinde mavi bir elbise giymektedir. Arka planı beyaz duvar ve tavanla kaplıdır.",
+        "image": "f900294b8bd547bf82fbcf18ef1cb94e.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir mutfak görünüyor. Mutfakta beyaz ve siyah renkli bir dolap sistemi bulunuyor. Dolapların üstünde beyaz ve siyah renkli bir kabine bulunmaktadır. Dolapların altında ve üstünde beyaz ve siyah renkli bir dolap sistemi bulunmaktadır. Dolapların arasında beyaz ve siyah renkli bir kabine bulunmaktadır. Dolapların altında ve üstünde beyaz ve siyah renkli bir dolap sistemi bulunmaktadır. Dolapların altında ve üstünde bey",
+        "image": "3610b62bde9c42918c3e6868a8369127.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir modern salon görünüyor. Sol tarafında bir pencere var ve pencereden dışarıda bir manzaralar görülmektedir. Pencereden gelen ışık, odada hafif bir ışık ortamını yaratıyor.\n\nOdada bir televizyon yer alıyor ve televizyonun ekranı siyah-beyaz bir damla desenle doldurulmuş, birazda yeşil bir alan da bulunuyor. Televizyonun altında bir meşe ren",
+        "image": "f8ef658cc3ce4876bdb8f7d61238289f.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Bu resim, bir evin像素化的图像であることを示しています. Evin renkleri, yeşil, sarı, kahverengi ve mavi tonları içerir. Evin pencere ve kapısı gibi detaylar da pixelize edilmiş görünüyor. Bu tür resimler, genellikle video oyunlarında veya pixel art stili sanatta kullanılır.",
+        "image": "9a4318b174dc4191b8bb3ea459989ee0.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir modern salon görünüyor. Sol tarafında bir okulda kitaplar yer almaktadır. Kitapların arasında bir kağıt kağıt bulunmaktadır. Kitapların arasına bir kağıt kağıt yerleştirilmişdir. Kitapların arasına bir kağıt kağıt yerleştirilmişdir. Kitapların arasına bir kağıt kağıt yerleştirilmişdir. Kitapların arasına bir kağıt kağıt yerleştirilmişdir. Kitapların arasına bir kağıt kağıt",
+        "image": "93b6b0f7ebf243c3ac58daa87f956a77.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir modern salon görünüyor. Sol tarafında bir pencere var ve pencereden dışarıda bir arka plan görülmektedir. Pencereden gelen ışık, odanın içine gizli bir atmosfer yaratıyor.\n\nOdada bir televizyon yer alıyor ve televizyonun ekranı siyah-beyaz bir damla desenle doldurulmuş, birazda yeşil bir damla da eklenmiştir. Televizyonun altında bir meşe ren",
+        "image": "7e8f9c16de9547a0a974061f23100306.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir modern salon görünüyor. Sol tarafında bir okulda yer alan bir kedi, bir kedi gibi bir yere oturuyor. Okulun önünde bir kedi gibi bir yere oturuyor. Okulun önünde bir kedi gibi bir yere oturuyor. Okulun önünde bir kedi gibi bir yere oturuyor. Okulun önünde bir kedi gibi bir yere oturuyor. Okulun önünde bir kedi gibi bir yere oturuyor. Okulun önünde",
+        "image": "a8f4c9cf41ca4743a8fc74d905f4a539.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir modern salon görünüyor. Sol tarafında bir okulda kitaplar yer almaktadır. Kitapların arasında bir kağıt kağıt ve bir kağıt kağıt bulunmaktadır. Kitapların arasında bir kağıt kağıt bulunmaktadır. Kitapların arasında bir kağıt kağıt bulunmaktadır. Kitapların arasında bir kağıt kağıt bulunmaktadır. Kitapların arasında bir kağıt kağıt bulunmaktadır. Kitapların arasında bir kağıt kağıt bulunmaktadır. Kitapların arasında bir kağı",
+        "image": "ae2f39655b8b49e5ad2f67c398509f3e.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir modern iç mekan görülüyor. Sol tarafta bir pencere var ve pencereden dışarıda biraz hava gelmektedir. Pencereden gelen ışık, odada biraz hafif bir etkisi yaratmaktadır. Odada bir kedi, kediye yakın bir yerde oturmuş bir kitaplık ve bir televizyon bulunmaktadır. Televizyonun ekranı siyah-beyaz bir damarlı desenle doldurulmuş, biraz sağ",
+        "image": "ccc37b510f1b4934872e3e4f51750e46.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir modern salon görünüyor. Sol tarafında bir okulda yer alan bir kedi, bir kedi gibi bir yerde duruyor. Okulun önünde bir kedi gibi bir yerde duruyor. Okulun önünde bir kedi gibi bir yerde duruyor. Okulun önünde bir kedi gibi bir yerde duruyor. Okulun önünde bir kedi gibi bir yerde duruyor. Okulun önünde bir kedi gibi bir yerde duruyor. Okulun önünde bir kedi gibi bir yer",
+        "image": "889b7af375864efe9253effbb979b985.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir kafe veya restoran içeriği görülmektedir. Camlı bir pencereden dışarıda bir park veya bahçe görünüyor. Bahçede ağaçlar ve bitkiler yer almaktadır. İçerde bir masa ve koltuklar yer almaktadır. Masa üzerinde bir kitap ve bir kılıf bulunuyor. Gösterilen atmosfer genellikle rahatlık ve keyifli bir ortamı temsil ediyor.",
+        "image": "3425e659a9b7412491309245429bb3c4.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tablo, bir restoranda veya kafe içinde çekilmiş bir fotoğrafı göstermektedir. Resimde, bir masa ve koltuklar görülmektedir. Masa, kahverengi bir tonu ile ve koltuklar, ahşap bir malzeme ile yapılmıştır. Masa ve koltuklar, bir araya gelerek bir masa seti oluşturur. Ayrıca, masa setinin arkasında, bir pencere veya cam duvar bulunmaktadır. Pencereden, dışarıda bitki örtüsü ve bir kaya veya çimli",
+        "image": "226087aa91654cf2ac5cbdc41c73a8be.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir erkek yer almaktadır. Gözlüğü ile gözlerinin yansıması gözlüklerin iç kısmında görülebilir. Gözlüklerinin arkasında bir ışık vardır ve bu ışık gözlüklerin iç kısmında yansıma oluşturur. Arka planında bir duvar ve bir pencere de görülebilir.",
+        "image": "aa9c63b6418f46f9ab47572667f06d18.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir erkek yer almaktadır. Gözlüğü takmış ve kahverengi bir t-shirt giymektedir. Arka planda bir pencere ve bir duvar bulunmaktadır.",
+        "image": "336b50b52f274e2dae4bfba2bac56b0b.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir bilgisayarın klavyesi görülmektedir. Klavyenin sol tarafında \"CTRL\", \"FN\", \"ALT\" tuşları yer almaktadır. Ayrıca, \"CAPS\", \"ESC\", \"WIN\" tuşları da mevcuttur. Klavyenin sağ tarafında ise \"Q\", \"W\", \"E\", \"R\", \"T\", \"Y\", \"U\", \"I\", \"O\", \"P\", \"A\", \"S\", \"D\", \"F\", \"G\", \"H",
+        "image": "460e02d02f8c4381ba50685dae6d70c1.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir bilgisayar ekranı ve klavyesi görülmektedir. Ekran üzerinde bir web tarayıcısı açıktır ve bir sayfa açılmış durumdadır. Klavyenin üzerinde \"ALT\" tuşu ve \"ALT GR\" tuşu bulunmakta, bu genellikle özel karakterlerin yazılmasını sağlar. Ayrıca, klavyenin altında bir fare bulunuyor.",
+        "image": "148eed4262c34697a2c4c6f9af43f69a.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir kişi, kendi yüzüne bakıyor gibi görünüyor. Arka planında bir oda görünüyor ve bir pencere ve bir lamba da vardır. Lambanın altında bir kapı da yer alıyor.",
+        "image": "51270f7ddd4943ddbc3bfed2366e19fb.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir laptopın parçası ve bu laptopın üzerindeki bir klavye görünüyor. Klavyenin sol tarafında \"CTRL\" ve \"FN\" tuşları, sağ tarafında ise \"CAPS\", \"ESC\", \"TAB\", \"CAPS\", \"CTRL\", \"ALT\", \"DEL\" tuşları yer almaktadır. Klavyenin üzerindeki tuşlar, Q, W, E, R, T, Y, U, I, O, P, A, S, D, F, G, H,",
+        "image": "81f5c5b1c14a4b9aa37eab3e3027c616.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir bilgisayar klavyesi görülmektedir. Klavyenin sol tarafında \"FN\" ve \"ALT\" tuşları yer almaktadır. Ayrıca, \"CAPS\" tuşu da bulunuyor. Klavyenin üzerinde \"QWERTY\" düzeni kullanılıyor. Klavyenin üzerindeki tuşlar, genellikle bir bilgisayarın standart tuşlarıdır.",
+        "image": "066552cbe2ec46f88828ac81ea874b77.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir odada bir kanepe, bir dolap ve bir masa bulunuyor. Dolapın üzerine bir çanta ve bir kağıt paketi, masa üzerine ise bir kağıt ve bir tabak bulunmaktadır. Masa üzerine bir kağıt üzerine bir kağıt ve bir kağıt üzerine bir kağıt paketi bulunmaktadır. Dolapın üzerine bir kağıt ve bir kağıt paketi bulunmaktadır. Dolapın üzerine bir kağıt ve bir kağıt paketi bulunmaktadır. Dolapın üzerine bir kağıt ve",
+        "image": "48564cc46246479fae5e8a3cfa4100c1.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir ofis odası görünüyor. Odada bir masa, bir bilgisayar monitörü, bir klavye, bir fare, bir laptop ve bir füme makinesi bulunuyor. Masa üzerinde çeşitli dokümanlar ve eşyalar da yer alıyor. Masa arkasında bir sandalye ve bir koltuk da yer alıyor. Odada bir kafes de bulunuyor ve kafesin içinde bir makine ve bir telefon yer alıyor.",
+        "image": "413a0e83701747f19958d4934e385e63.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir merdiven yer almaktadır. Merdivenin sol tarafında bir metal merdiven sıvası bulunmaktadır. Merdivenin üstüne bir kareli, sarı ve yeşil tonlarda desenli bir kumaş yer almaktadır. Merdivenin sağ tarafında bir metal sütun bulunmaktadır. Merdivenin altında ve sağında bir kareli, sarı ve yeşil tonlarda desenli bir kumaş yer almaktadır.",
+        "image": "d53a32d93e1a40468db108c66afac37a.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir kentsel alanın bir bölümü görülmektedir. Yüzey, beton tabanlı ve sarı çizgilerle işaretlenmiş bir yol ile kaplıdır. Sol tarafında bir kule ve sağ tarafında bir duvar bulunmaktadır. Duvara bir resim veya poster yer almaktadır. Yolun ortasında bir kareli beyaz çizgi ve sol tarafında bir kareli sarı çizgi bulunmaktadır.",
+        "image": "e27e8990417e47c59b5037deacae4a42.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir bilgisayar masaüstü görünüyor. Bilgisayarın sol üst köşesinde bir masa vardır. Masa üzerine bir bilgisayar monitörü ve bir klavye yer almaktadır. Monitörün üzerinde bir ekran görüntüleri ve bir kablo bulunmaktadır. Klavyenin üzerinde \"Intel Core\" ve \"Intel Iris\" yazısı bulunuyor. Ayrıca, masa üzerinde bir kalem ve bir kağıt bulunmaktadır.",
+        "image": "7a5cc8b8cf734a7495288c66f8af5f55.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir bilgisayar klavyesi görülmektedir. Klavyenin üzerinde \"HP\" logosu yer almaktadır, bu da bilgisayarın HP markasındadır. Klavyenin üzerindeki tuşlar, genellikle QWERTY düzeninde düzenlenmiştir. Klavyenin sağ üst köşesinde \"ALT\" tuşu yer almaktadır.",
+        "image": "0939cc902f7943e08c6b770e5b1d2354.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir bilgisayar klavyesi görülmektedir. Klavyenin sol tarafında \"ALT GR\" tuşu yer almaktadır. Bu tuş, birçok özel karakteri veya özel tuşları aktive etmek için kullanılır. Ayrıca, klavyenin sağ tarafından \"↑\", \"↓\", \"←\", \"→\" tuşları yer almaktadır. Bu tuşlar, fare gibi bir ekipmanın yerine kullanılır.",
+        "image": "5f165cffab9146e3b68982b59df65679.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir bilgisayarın klavyesi ve bir parçacık veya sıvı parçacığı görülmektedir. Klavyenin sağ alt köşesinde bir Intel Core İşlemci etiketi ve bir Intel Iris Graphics etiketi yer almaktadır. Klavyenin üzerinde biraz sıvı veya parçacık vardır.",
+        "image": "efc49a53427342f2bab2c887ab561344.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir bilgisayar klavyesi ve dokunmatik paneli görülmektedir. Klavyenin üzerinde \"FN\", \"ALT\" ve \"CTRL\" tuşları yer almaktadır. Dokunmatik panelin üzerinde ise bir parmak izi görülmektedir.",
+        "image": "f316d53fa98747f49790dc2536942ddb.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir kedi ve bir kişinin ayakları görülmektedir. Kedi, resim sağında ve kameraya doğru ilerliyor gibi görünüyor. Ayaklar, kameranın üst kısmında yer almaktadır ve kendi ayaklarının altında bir kedi görünüyor. Arka planda bir dolap ve bir banyo kabini vardır. Dolap içinde çeşitli eşya ve banyo kabının içinde bir banyo kabı ve bir banyo kabı vardır.",
+        "image": "497720c85d5c43a5aedbc070792dd626.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir kişinin elinde bir Vestel markalı televizyon kontrolü bulunmaktadır. Kontrolün üzerinde çeşitli düğmeler ve tuşlar yer almaktadır. Bu tuşlar, televizyonun farklı fonksiyonlarını kontrol etmek için kullanılır.",
+        "image": "0e22018261e1463b8b9bd199994512cb.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir yolun üstüne bakılıyor ve yolun üzerinde bir yol işaretçisi bulunuyor. Yol işaretçisi, bir yolun sonuna veya bir yolun başlangıcına işaret eder. Yol işaretçisi, genellikle bir yolun sonuna veya başlangıcına işaret eder. Yol işaretçisi, bir yolun sonuna veya başlangıcına işaret eder. Yol işaretçisi, bir yolun sonuna veya başlangıcına işaret eder. Yol işaretçisi, bir",
+        "image": "931092a6cebb45669d6eb151ad5eba39.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir pencere görünüyor ve pencereden dışarıda bir yapı ve bir körfez görünüyor. Penceredeki perde, beyaz bir renkte ve desenli bir şekilde yapılmış, pencereden dışarıda bir yapı ve bir körfez görünüyor.",
+        "image": "d9b506ff364e42dd9d4966dc5f6f7f9a.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resim, bir pencereden dışarıda görünen bir şehir manzarasını göstermektedir. Penceredeki şeffaf, desenli bir kumaştan oluşmuş ve bu kumaş, dışarıda görünen yapıların detaylarını kısmen gizliyor. Gösterilen yapılar, modern ve yüksek katlı bir bina ve bir daha düşük katlı bir bina olmak üzere iki farklı yapıdır. Binaların arasında bir park veya bahçe görünüyor ve bu alanın üzerinde bir kırık",
+        "image": "bf813cb1d447440483121f44ebcf5fe3.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir odada bir kanepe, bir masa ve bir halı bulunuyor. Masa, metal ayakları ile bir modern tasarımda ve halı, farklı renkli ve desenli parçalarından oluşuyor. Odada bir pencere de, pencereden gelen ışık, halin üzerine yansıtır.",
+        "image": "58b07b9e6b4d4ded8baccc986629c622.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir koltuk görülmektedir. Koltuk, yeşil bir tonu ile kaplı ve bir kılıflı kumaştan yapılmıştır. Koltuk üzerine bir kılıflı kumaşlı yastık yer almaktadır. Yastık, bej renkli bir tabakta ve üzerinde pembe, mavi ve yeşil tonlarda çiçek desenli bir baskı bulunmaktadır. Arka planında bir pencere ve bir kumaşlı perde görülmek",
+        "image": "c8b6a505c88e484d91d6c11dd1332639.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir banyo odası görünüyor. Gösterilen kişinin ayakları ve pantolonu görünüyor. Ayakları beyaz çoraplarla ve pantolonu ise siyah ve beyaz desenli bir pantolonla örtülü. Banyo odası içinde bir banyo kabini ve bir banyo tavanı da görülmektedir.",
+        "image": "e98733bbfb374bfaaa1e9418dafc3cf3.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde, bir kişinin ayakları ve onun giydiği pantolonu görülmektedir. Ayakları, bir taşlı yoldan bir taşsuz yola geçiş yapmaktadır. Taşlı yolda bazı yerlerde taşlar kırılmış ve çökmüştür. Taşsuz yolda ise taşlar yer yer çürütmüştür.",
+        "image": "9619230fe0854c368f188507f885294a.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tablo üzerinde bir şey yok.",
+        "image": "705f84fc1339418c9a316898b0b0ae0e.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir açık havuzlu restoran veya kafe görünüyor. İçerde kare tablolar ve demetli sandalyeler yer almaktadır. Arkada açık havuz ve ağaçlar görülmektedir. Ayrıca, bir personel, restoranın içine girdiğinde bir arka plana bakıyor.",
+        "image": "1fdeff1a47794ee28a84a9e9637b6f1f.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir erkek yer almaktadır. Onun üzerinde siyah bir t-shirt giymektedir. Arka planı beyaz bir duvar ve bir kamera gibi bir cihazın olduğu bir yerdir.",
+        "image": "d5ff9c164ebe4072a6fdb8be0e08245a.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tablo üstünde kırmızı kapaklı kitaplar ve bir bardak bulunmaktadır.",
+        "image": "3fe5a275101b420ba8577649e0a7cbc9.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir kişinin yüzüne odaklanıyor. Bu kişi, kahverengi saçlı ve kahverengi gözleriyle bir erkek olabilir. Gözlerinin altında ve yüzün üzerinde bazı kıvrımlar ve kıvrımlar bulunuyor. Gözlerinin sağında bir kafa parçası ve solunda bir kafa parçası vardır.",
+        "image": "ec0d8598555a4530b879c748179db099.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir bilgisayar ekranı görülüyor ve ekran üzerinde WhatsApp uygulaması açılmış durumda. WhatsApp penceresinde birkaç konu bulunmaktadır ve her bir konuda bir kişi veya grup ile mesaj geçişleri görülmektedir. Konuların bazıları \"Bohbotlar\", \"COSMOS AI Research Group\" ve \"Annam\" gibi adlarla başlamaktadır. Ekranın sağ üst köşesinde bir arka plan resmi ve bir pencere açma simgesi bulunmaktadır.",
+        "image": "c5fe18d9f6734118ad509cb541832b52.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir binanın dış görünümü görülmektedir. Binanın üst katları açık ve pencerelerini göstermektedir. Binanın sol tarafında bir klima cihazı yer almaktadır. Binanın sağında bir cadde ve arka planda da bir orman veya park yer alıyor. Ayrıca, binanın sağında bir otel veya bina görülmektedir. Arka planında da bir dağ veya dağlık alan yer alıyor.",
+        "image": "3c14eb72078a44208041a9153742af7a.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir yastık veya bir koltukun kılığının üst kısmının gölgen bir arka plana dayanıyor. Yastık kılığı yeşil bir tonu ile kaplı ve kılığın üst kısmında bir tuval bulunmaktadır.",
+        "image": "3f801a6ef87f49c197efbd25a61b6914.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir TV ekranı yer almaktadır. TV'deki görüntüde, bir trenin yüksek bir dağın dibinde yolculuk etmesi görülmektedir. Trenin arkasında dağlar ve ormanlar yer almaktadır. TV'nin solunda bir kadın, başörtüsü giymektedir ve bir sandalyede oturumaktadır.",
+        "image": "878b39e6e30842a0a3a39445b415df47.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde iki çocuk yer alıyor. Bir çocuk, solundaki bir çocuk tarafından bir telefon tutuluyor. Solundaki çocuk, yeşil bir gömlek giyiyor ve kollarında bir cihaz tutuyor. Sağdaki çocuk, bir futbol forma giyiyor ve bir kafesli kıyafetler giyiyor. Arka planda bir koltuk ve bir yastık var.",
+        "image": "2b768abcf1e84526aa3897217a2ad5a1.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde iki kişi vardır. Birisi gözlük giyinen erkek, diğerisi siyah giyinen erkek. Gözlük giyen erkek, kameraya doğru bakıyor ve biraz güldüren bir ifadeyle poz veriyor. Siyah giyinen erkek ise kameradan uzakta, biraz yukarı bakıyor ve biraz şaşırtmış bir ifadeyle poz veriyor. Arka planında bir pencere ve bir duvar bulunmaktadır.",
+        "image": "6794c1ff15ea46d99149585c4636b1e0.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde iki kişi yer almaktadır. Soldaki kişi gözlük giymektedir ve sağında bir pencere ve kumaşlı bir duvar bulunmaktadır. Sağdaki kişi ise daha açık bir yüz ifadesiyle poz vermektedir.",
+        "image": "399bf674fb634180aab7daf88d0e0e59.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir kedi var. Kedinin yüzü kameraya doğru bakıyor ve kedi, bir kişinin elinde tutuluyor. Kedi, koyu ve açık renkli bir yüzüne sahiptir ve kedi, kameraya doğru bakıyor.",
+        "image": "c4c9b36dd0af4fb8b77e17f056e4d8e8.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir erkek yer almaktadır. Arka planda bir sehpa ve bir sehpa dolabı bulunuyor. Sehpa, beyaz bir duvarın önünde yer almaktadır ve sehpa dolabı ise, sehpa ile aynı duvarın arkasında yer almaktadır.",
+        "image": "0b63567ff23d4ba2b843f9b5f61a8b37.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir şarj kablosu görülüyor. Kablonun uç kısmında bir priz veya şarj adaptörü yer alıyor. Kabloda bir kablo ve bir priz bulunuyor.",
+        "image": "90245e5fe9ec43d9bba2422642181445.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir erkek yer almaktadır. O, kahverengi saçlı ve biraz kıvırcık bir saçı vardır. Göğsü siyah bir t-shirt giymektedir. Arka planda, bir pencere ve bir dolap bulunmaktadır. Dolap, kahverengi kapakları ile kaplıdır ve içinde biraz eşya var gibi görünmektedir.",
+        "image": "6fac277c822c408bb69140245ffbb94e.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir elin, bir kılıfı tuttuğunu ve kılıfın içinde bir cihaz olduğunu görürüz. Kılıfın üzerinde \"AirPods\" yazısı var. Ayrıca, kılıfın üzerinde bir logo veya işaret bulunmaktadır.",
+        "image": "1d991ca0995246b59f98f7e17b0ffc00.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir elin bir şişenin üst kısmını tuttuğunu ve şişenin içeriğini gösteren bir etiketini gösterdiğini görürüz. Şişenin içeriği, bir tür krem veya süt gibi bir içeriği olabilir. Arka planında bir duvar ve bir duvar saati görülmektedir.",
+        "image": "0fe4a0a700bc4f73aa7d6389abbdaa42.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir matematik ders notları olduğu görülüyor. Notlarda \"5. Sınıf Matematik\" yazıyor ve biraz aşağıda \"5. Sınıf Matematik\" yazıyor. Ayrıca, notlarda \"Geometrik Şekiller\" ve \"2. Bölmeler\" gibi başlıklar da yer alıyor. Notlar, bir dersin temel konularını ve başlıklarını gösteriyor.",
+        "image": "dd46e645e9224a7684a741aaa036d3e8.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir poster yer almaktadır. Poster, Türkçe olarak yazılmış ve matematik dersinin 5. sınıf 1. fasikül ve 2. bölümünü içerir. Poster, bir duvar üzerine yapıştırılmış ve bir saatle birlikte bir duvar üzerinde yer almaktadır.",
+        "image": "8effec046f2d481da27f4eaf09342771.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir kağıt servis kağıdı görülüyor. Kağıt servis kağıdı, genellikle yemeklerin servisinde ve mutfakta kullanılır.",
+        "image": "325509b4ec2243bda773baca20a603ef.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir elin bir küçük, kapalı bir şişe tuttuğunu görürüz. Şişenin üstü kırmızı bir kapakla kaplı ve içeriği tamamen sertleşmiş bir şekilde görünüyor. Şişenin içindeki maddeleri tam olarak belirtilmemiş, ancak genellikle bu tür şişelerde mısır, teneke veya benzeri maddeler saklanabilir. Arka planda bir duvar ve bir duvar saati görülm",
+        "image": "fdf2b2a4daba4dd38cb2e0421299a515.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir duvar ve duvara monte edilmiş bir saat bulunmaktadır. Saat, duvara monte edilmiş bir çerçevede yer almaktadır ve saatin üzerindeki saatler ve dakikaların işaretlerini görebilirsiniz. Saatin üzerindeki saatler ve dakikaların işaretlerini görebilirsiniz. Saatin üzerindeki saatler ve dakikaların işaretlerini görebilirsiniz. Saatin üzerindeki saatler ve dakikaların işaretlerini gö",
+        "image": "6df21a799fa44c90958b99533e79e80f.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir Balenciaga markalı yüksek topuklu siyah deri çizme bulunmaktadır. Çizmenin fiyatı 106.950 TL olarak belirtilmektedir.",
+        "image": "0760f032cebc4a7c91dfe9384d295554.jpeg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir klavye görünüyor. Klavyenin üzerinde büyük bir tuş bulunuyor ve bu tuşun altında bir el destek bulunuyor. Klavyenin üzerindeki tuşlar siyah ve beyaz renkli olup, beyaz renkli tuşlar üzerinde siyah renkli harfler veya semboller bulunmaktadır.",
+        "image": "074c610be8b542c8b99aa7c02bc39691.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Resimde \"Better Together\" yazısı bulunmaktadır. Bu ifade genellikle birbirimize yardımcı olmak, birlikte çalışmak ve daha iyi sonuçlar elde etmek için birbirimize ihtiyacı duyduğumuz bir mesajı ifade eder. Resim ayrıca \"Microsoft Solutions Partner\" logosu da bulunmaktadır, bu da Microsoft'un bir iş ortağı olduğunu gösterir.",
+        "image": "acdbd937337740ffba1e1d2e88257a55.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir bilgisayar monitörü ve klavye bulunuyor. Monitörde bir yazılım veya uygulama açıktır ve \"Drant\" yazısı görülmektedir. Ayrıca, monitörün üzerinde bir parrot (kuş) ve bir kolye simgesi de yer almaktadır. Monitörün altında bir masa bulunmaktadır ve masa üzerinde bir kablo görülmektedir.",
+        "image": "5489f21eb8434b9b925fe11e6b9d0cb1.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Bu bir chathıstonun ekran görüntüsüdür. Chathıstonun kullanıcıları arasında bir sorun vardır ve bu sorunun çözümü için bir arama yapılıyor. Sorun, bir admin hesabının bulunmamasıdır ve bu admin hesabının bulunması gereken bir VMware sistemine erişim sağlayacaktır. Chathıstonun kullanıcıları, bu sorunun çözümü için bir çözüm önerisi yapmaktadır.",
+        "image": "3588280a48e54646892dd6bd01ce0dc4.png"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde iki farklı kemik bulunmaktadır. Soldaki kemik, bir kafatasının bir parçası gibi görünmektedir ve içerdikleri boşluklar ve şekilleri ile belirgin bir şekilde gösterilmiştir. Sağdaki kemik ise daha genel bir kemik parçası gibi görünmektedir ve daha düz bir yüzey yapısı göstermektedir.",
+        "image": "9a1beec78a564846bd2706673df3f10f.jpeg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Bu resimde, bir bebek kapağı ile bir oda görünüyor. Kapının üzerinde, bir bebekin yürüyüşüne izin veren bir açılık bulunuyor. Kapının sol tarafında, bir bebekin yüzüne bir görsel olarak bir bebek resmi yer almaktadır. Kapının sağ tarafında ise, bir bebekin yürüyüşüne izin veren bir açılık bulunmaktadır. Kapının üzerinde, bir bebekin yürüyüşüne izin veren bir açılık bulunmaktadır.",
+        "image": "a3a4471aee61490687a500bbdcdce3c6.jpeg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tablo, matematikteki farklı yapıları göstermek için kullanılır. Bu tabloda, \"Scalar\", \"Vector\", \"Matrix\" ve \"Tensor\" kavramları ve bunların örnekleri gösterilmiştir.\n\n1. **Scalar**: Bir sayıdır. Bu tabloda, \"Scalar\" kısımında 1 yazılır. Scalar, tek bir değer içeren bir yapıdır.\n\n2. **Vector**: Bir dizi sayıdır. Bu tabloda, \"Vector\" kısımında [1, 2] yazılır. Vector, birden fazla değer içeren bir yapı",
+        "image": "cc42a5fd6e1f40f7b16eb71586a151a1.png"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde \"kaggle\" yazısı ve bir veri merkezi simgesi yer almaktadır. \"kaggle\" bir veri analizi ve makine öğrenimi platformudur. Veri merkezi simgesi, veri depolama ve yönetimi konusunda bir simge olarak kullanılır.",
+        "image": "cb3a9b2d1066463dbba868463277f7e8.png"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir asker görülüyor. Askere ait bir gömlek giymektedir ve gömlek üzerinde çeşitli logo ve bantlar bulunmaktadır. Askere ait bir fotoğraf da duvar üzerinde yer almaktadır.",
+        "image": "a6a2b68733f44d29ae72d27506f18034.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tablo üzerinde çeşitli dokümanlar, bir anahtar, bir kalem, bir kupa ve bir dizi diğer eşyalar bulunuyor. Dokümanlar genellikle ofis veya eğitim ortamında kullanılır. Anahtar, bir araba veya evin anahtar olabilir. Kalem ve kupa ise genellikle ofis ortamında kullanılır. Diğer eşyalar ise belirsizdir.",
+        "image": "221cec288eed4c6ca5a2b81ac9a8fd70.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir kadın görülüyor, onun göğsüne ve göğüs kemerine birlikte bir kıyafet giymektedir. Kıyafetin göğsüne ve göğüs kemerine, birbirine yakın iki yıldız şeklindeki simgeler bulunmaktadır.",
+        "image": "309445c25211438288458cd76fc254cb.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir asker görünüyor. Askere ait bir gömlek giymektedir ve gömlek üzerinde bir bayrak ve bir logo bulunmaktadır. Gömlek üzerindeki bayrak, Türk bayrağıdır. Askere ait bir gömlek giymektedir ve gömlek üzerinde bir bayrak ve bir logo bulunmaktadır. Gömlek üzerindeki bayrak, Türk bayrağıdır.",
+        "image": "4d222ef5b87649f19b3d5afbd8a30913.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tablo üzerinde çeşitli dokümanlar, noter, bir kalem, bir silgi, bir kupa ve bir kupa bulunmaktadır. Ayrıca, bir bilgisayar klavyesi ve bir telefon da görülmektedir. Dokümanlar arasında bir kapatma ve bir silgi de yer almaktadır.",
+        "image": "a8d4c1ccf6f24c03825deab1a4dd89b3.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir odanın içine girme kapısı ve bir duvarı görülüyor. Kapının solunda bir dolap ve bir ayna yer alıyor. Dolapın üzerine bir kıyafetlerin yer aldığı bir çanta ve bir kıyafetlerin hafif bir şekilde yığıldığı bir çanta yer almaktadır. Kapının solunda bir duvarlık bulunmaktadır ve duvarlıkta bir kıyafetlerin hafif bir şekilde yığıldığı bir çanta yer almaktadır. Kap",
+        "image": "235b01bd8fba46a3b90888d6d9c65685.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tablo üzerinde bir bardak ve bir çaydanlık bulunuyor. Bardakta bir içecek, çay veya kahve gibi bir içecek var. Çaydanlıkta ise bir içecek yok.",
+        "image": "9123dfd146fd44a894fb6b5b665af14e.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Bu resim bir Python 3.8.10 interpreter'in çıktısıdır. Interpreter, bir Python programı çalıştırmak için kullanılır. Bu örnekte, interpreter, bir Python programı çalıştırmak için kullanılır. Bu örnekte, interpreter, bir Python programı çalıştırmak için kullanılır. Bu örnekte, interpreter, bir Python programı çalıştırmak için kullanılır. Bu örnekte, interpreter, bir Python programı çalıştırmak için kullanılır. Bu örnekte, interpreter, bir Python programı çalıştırmak için kullanılır. Bu örnekte, interpreter,",
+        "image": "882ba89d287d4186abf0c80fc63cb94b.png"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Bu resimde bir erkek yer almaktadır. Erkek, mavi bir arka plan önünde poz vermektedir. Erkek, mavi bir jean gömlek giymektedir. Gömlek, kollarını kapatmış ve göğüs kemiği açık durmaktadır. Gömlek, iki büyük kama ve dört düğme ile kaplanmıştır.",
+        "image": "89716622ac2e4f0a8c00074d0d91b9df.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir erkek görülüyor. O, bir kafa bandı giymektedir ve gözlük takmaktadır. Göğüsünde bir kılıf giymektedir. Sol elinde bir mavi fare tutmaktadır. Arka planı beyaz bir duvar ve bir kafes gibi bir şeydir.",
+        "image": "a75be7c91649406aa6ee21284160720a.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir park yerine bakılıyoruz. Parkta birkaç araba park edilmiş ve aralarında bir kırmızı, bir beyaz ve bir mavi araba vardır. Parkın sol tarafında bir asfalt yolu ve bir tavan bulunmaktadır. Yolun solunda bir bahçe ve ağaçlar yer almaktadır. Ayrıca, parkın sağında bir kırık ve bir kırık bahçenin olduğu bir alan da görülmektedir.",
+        "image": "25bd657a47c24fe3a7b284a2ac327cf2.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir erkek görülüyor, göğüslerine ve göğüslerine birlikte bir gömlek giymektedir. Gömlek, göğüslerine ve göğüslerine birlikte bir gömlek giymektedir. Gömlek, göğüslerine ve göğüslerine birlikte bir gömlek giymektedir. Gömlek, göğüslerine ve göğüslerine birlikte bir gömlek giymektedir. Gö",
+        "image": "fbd070aa25ac41c7a2448394786c38e2.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir kişinin ayakları ve onun giydiği siyah ayakkabıları ve siyah pantolonu görülmektedir. Ayakları bir balkonun kenarında durmaktadır ve arkasında bir asfalt yolu ve bir tavan bulunmaktadır.",
+        "image": "d9695cc70bcd46109d9740e7aa2ec8e6.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir bilgisayar ekranı görülüyor. Ekran üzerinde bir grafik ve birkaç liste veya tablo yer almaktadır. Grafikte bir harita veya düzenlemeli bir düzenek gibi bir şey görülmektedir. Liste veya tablolar içerisinde çeşitli bilgiler ve veriler yer almaktadır. Ekranın altında bir fare ve bir not bloğu bulunuyor. Not bloğu üzerinde bir not yapıştırılmıştır.",
+        "image": "e107fc255186416fa596ad0f2358a841.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir ofis ortamı görülmektedir. Bir kadın, bir masa arkasında oturmuş ve bir telefonla konuşmaktadır. Masa üzerinde bir kupa ve bir çay bardağı bulunuyor. Masa arkasında bir bilgisayar monitörü ve bir çanta bulunuyor. Masa arkasında bir kanepe ve bir kıyafetlik de yer alıyor. Arka planda bir pankart ve bir çiçekli bir monitör bulunmaktadır.",
+        "image": "a7639f76366444c9b324a8c0fc0b5313.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tablo üzerinde iki beyaz tabak ve bir küçük beyaz kase bulunmaktadır. Kase içinde biraz sarı sıvı vardır. Ayrıca, tabloda bir kağıt servet ve bir menü kutusu da bulunmaktadır.",
+        "image": "53fc22deac11468395ad2a9e5a883ece.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tablo, bir restoranda bir kişi tarafından servis edilen bir yemek sırasında çekilmiş bir fotoğrafı göstermektedir. Resimde, bir mutfak masası üzerindeki iki tane beyaz tabak, biraz kahvaltı veya öğle yemeği kalıbı, bir bardak ve bir kahve bardağı bulunuyor. Ayrıca, bir kahvaltı veya öğle yemeği kalıbı üzerinde bir kahvaltı veya öğle yemeği kalıbı bulunuyor.",
+        "image": "d3ef331dc49b48a181cdcbda536fb384.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tablo üzerindeki bilgisayar monitörlerinde kodlama veya programlama uygulamaları görülmektedir. Monitörler arasında bir kablo ve bir fare de bulunuyor. Monitörlerin altında bir masa bulunmaktadır ve masa üzerine bir kablo ve bir kılıf da yer almaktadır.",
+        "image": "9a06d04b82794f228b7c65d2027768aa.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir modern oturma odası görülmektedir. Odada kahverengi renkli parke taşları kullanılmış ve bu taşlar üzerinde bir kare desenli halı yer almaktadır. Halin üzerinde bir ahşap masa bulunmaktadır. Masa üzerine bir TV monitörü ve bir kupa bulunmaktadır. Masa arkasında bir kahverengi renkli koltuk ve bir kahverengi renkli kanepe bulunmaktadır. Koltuk ve kanepe üzerinde kılı",
+        "image": "f3a934d3959f47159d9d1e55fce7e398.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir restoranda bir kişi, masa üzerine bir bardak limonata ve bir kağıt çanta ile birlikte bir bardak suyu yerine oturuyor. Masa üzerinde bir bardak limonata ve bir kağıt çanta bulunuyor. Arka planda, diğer müşteriler ve personel görülmektedir.",
+        "image": "3603e04c64634e4fa35154cce674f573.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Bu resimde bir logo görülmektedir. Logo, bir çember ve bir çubuk şeklinde bir desen içermektedir. Çemberin içine bir çubuk yerleştirilmiş ve çemberin bir tarafı çubukla kesilmiş gibi görünmektedir. Renkler, mavi ve pembe tonları içermektedir. Bu logo, bir şirket veya organizasyon için kullanılabilecek bir desen olarak görülmektedir.",
+        "image": "8fc15a5f1d1f491094edad04467300bc.png"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde iki bilgisayar gözlüyoruz. Sol taraftaki bilgisayarın ekranında bir web sayfası açıktır ve \"Windows\" yazısı görülmektedir. Bilgisayarın klavyesi siyahdır ve \"ThinkPad\" markası ile işaretlenmiştir. Sağ taraftaki bilgisayarın ekranı ise kapatılmış durumdadır.",
+        "image": "ab9a84325ce04a879ec0eae9148a1d59.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir ofis odası görünüyor. Odada bir masa, monitör ve bir kamera bulunuyor. Odanın dışına bakıldığında, bir şehir manzarası ve birkaç yüksek bina görülmektedir. Hava hafif bir sisli görünüyor ve gökyüzünde biraz dağlık bir görünüm de mevcut.",
+        "image": "5aecceb6b99742c2a189fcb09be74dc2.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir bilgisayar klavyesi ve bir laptop bulunmaktadır. Laptop'un üzerinde \"ThinkPad\" yazısı vardır. Klavyenin altında bir diğer klavye bulunmaktadır.",
+        "image": "a47af9763c1642e4ba57e914c16eb862.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde iki klavye bulunmaktadır. Altta olan klavyenin altında bir mikrofon bulunmaktadır. Üstteki klavyenin üzerinde \"AltGr\" ve \"Ctrl\" tuşları yer almaktadır. Ayrıca, üstteki klavyenin sol üst köşesinde bir kırmızı nokta bulunmaktadır.",
+        "image": "f36ac29c578d4947892173f93e65b73e.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir odanın içinden başka bir odaya bakan bir görünüm vardır. Odada bir yatak, bir duvar saati ve bir mutfak görünümü yer almaktadır. Odada genel olarak karanlık bir havanın olduğu ve bir pencere veya ışık kaynağı olmayan bir odadır.",
+        "image": "8343f0865dcb49779bca4d6a5f3e9542.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir odanın içine bakan bir odanın kapısının açıldığı görülmektedir. Kapının iç tarafında bir yatak veya bir yastık bulunmaktadır. Kapının dış tarafında bir duvar sahibi bulunmaktadır ve bu duvarın üzerinde bir saati ve bir duvar kağıdı bulunmaktadır. Kapının iç tarafında bir masa ve bir koltuk bulunmaktadır. Masa üzerinde bir bilgisayar ve bir kağıt bulunmaktadır. Kapının iç tarafında bir duvar sahibi bulunmaktadır ve bu duvarın üzerinde bir",
+        "image": "60d0ef3296224c3fbcbf4beae752f59c.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklayabilirim. Resimde bir Windows Command Prompt penceresi gösteriliyor. Pencere, bir ağ bilgisayarının ARP (Address Resolution Protocol) tablosunu gösteriyor.\n\nARP tablosu, bir ağda bir bilgisayarın IP adresi ile onun fiziksel (MAC) adresi arasındaki ilişkisini gösterir. Bu tablo, bir ağda bir bilgisayarın IP adresi ile onun fiziksel (MAC) adresi arasındaki ilişkisini gösterir.\n\nTabloda, bir ağda bir bilgisayarın",
+        "image": "205260e3c6ea4447bb836328384715c5.png"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir oturma odası görülmektedir. Odada bir koltuk, bir televizyon kabini ve bir bitki bulunmaktadır. Televizyon kabini üzerinde bir kafes ve bir televizyon yer almaktadır. Televizyon kabini üzerinde bir kafes ve bir televizyon yer almaktadır. Televizyon kabini üzerinde bir kafes ve bir televizyon yer almaktadır. Televizyon kabini üzerinde bir kafes ve bir telev",
+        "image": "3d1ce8ddec174d95aa4034ef6255494e.jpg"
+    },
+    {
+        "prompt": "Bu resimde gördüklerini anlat",
+        "chosen": "Deneme Yanıtı",
+        "rejected": "Tabii ki, resmi açıklarım. Resimde bir oturma odası görülmektedir. Odada bir kumaştan oluşan bir halı yer almaktadır. Halin üzerinde desenli bir yapı bulunmaktadır. Odada bir masa ve üç koltuk bulunmaktadır. Masa üzerinde bir kağıt ve bir kumaş bulunuyor. Masa arkasında bir pencere vardır ve pencerede kumaşlı bir perde bulunmaktadır. Perdenin arkasında bir tv yer almaktadır. Odada ayrıca bir bitki de bulunmaktadır.",
+        "image": "a8e9deadcce44b0e8842497a0b9e99aa.jpg"
+    }
+]
